@@ -37,8 +37,8 @@ pkg/fcm/                     # Firebase Cloud Messaging integration
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
-   cd backend-travel
+   git clone https://github.com/onoja123/travel-system.git
+   cd travel-system
    ```
 2. Install dependencies:
    ```sh
